@@ -1,6 +1,6 @@
 # Party Shift
 
-Party Shift is a narrative-driven, console-based simulation game developed in C# using Visual Studio. This project was created as part of a school assignment, focusing on creating an immersive experience through logic, timing, and text-based interaction. Throughout the development process, I found a deep passion for game design and the challenge of building a functional world within a Command Line Interface (CLI).
+Party Shift is a narrative-driven, console-based simulation game developed in C# using Visual Studio. This project was created as part of a passion project and a school assignment, focusing on creating an immersive experience through logic, timing, and text-based interaction. Throughout the development process, I found a deep passion for game design and the challenge of building a functional world within a Command Line Interface (CLI).
 
 ### Technical Skills and Concepts Learned:
 
@@ -18,4 +18,4 @@ Party Shift is a narrative-driven, console-based simulation game developed in C#
 
 Building Party Shift taught me that programming is as much about the player's experience as it is about the code. Managing the game's economy, balancing the difficulty of the "Park Patrol" mini-game, and ensuring the "Secret Ending" felt rewarding were the highlights of this creation process. This project has solidified my interest in software development and the creative potential of C#.
 
-<small>🤔If anyone is reading this, Thanks, and Hope you enjoy the game!🩷</small>
+<sub>🤔If anyone is reading this, Thanks, and Hope you enjoy the game!🩷</sub>
