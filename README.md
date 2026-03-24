@@ -19,8 +19,11 @@ Party Shift is a narrative-driven, console-based simulation game developed in C#
 Building Party Shift taught me that programming is as much about the player's experience as it is about the code. Managing the game's economy, balancing the difficulty of the "Park Patrol" mini-game, and ensuring the "Secret Ending" felt rewarding were the highlights of this creation process. This project has solidified my interest in software development and the creative potential of C#.
 
 
-#! Disclaimer!
-**AI was used for easing the work, repeating repetitive tasks and making the art. All of the base logic was thought by me, and read online.**
+# !Disclaimer!
+
+- **AI usage:** AI was used for easing the work, repeating repetitive tasks and making the art. All of the base logic was thought by me, and/or read about online.
+
+- **Joke:** However motivated I was,this project is still kind of a joke and shouldn't be taken completely seriously, thanks for the understanding!
 
 ---
-<sub>🤔If anyone is reading this, Thanks, and Hope you enjoy the game!🩷</sub>
+<sub>✌️If anyone is reading this, Thanks, and Hope you enjoy the game!❤️</sub>
