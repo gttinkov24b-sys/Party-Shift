@@ -8,7 +8,7 @@ namespace Party_Shift
     public class main_parts
     {
 
-        public static void TitleScR()
+        public void TitleScR()
         {
             Console.ForegroundColor = ConsoleColor.Magenta;
             master.CenterText("  ██████  ██   ██ ██ ███████ ████████      ████████  ██████  ");
@@ -25,9 +25,10 @@ namespace Party_Shift
             Console.ResetColor();
         }
         // 1 house, 2 store, 3 work, 4 park, 5 friend's house, 6 random building
+        List<string> house_types = new List<string>();
         public void MakeMap()
         {
-            List<string> house_types = new List<string>();
+            
             house_types.Add("h"); // own house
             house_types.Add("s"); // neihborhood store
             house_types.Add("w"); // own workplace
@@ -39,8 +40,9 @@ namespace Party_Shift
             {
                 house_types.Shuffle();
             }
-
-
+        }
+        public void GiveMap()
+{
             Console.Write($"    o-----o-----o-----o");
             Console.WriteLine();
             for (int j = 0; j <= 3; j += 3)
@@ -60,7 +62,6 @@ namespace Party_Shift
             }
             Console.WriteLine("h = house, s = store, w = work, p = park, f = friend's house, r = random building");
             Console.Write("Type where you want to go as a letter or its full name: ");
-
         }
 
     }

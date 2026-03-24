@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Party Shift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79a0e65470ece6be4ae1a6c7f703fdda6e95d4d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Party Shift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Party Shift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
