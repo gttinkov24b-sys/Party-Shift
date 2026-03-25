@@ -25,5 +25,7 @@ Building Party Shift taught me that programming is as much about the player's ex
 
 - **Joke:** However motivated I was,this project is still kind of a joke and shouldn't be taken completely seriously, thanks for the understanding!
 
+- **Alcohol:** This project also mentions alcoholic drinks.
+
 ---
 <sub>✌️If anyone is reading this, Thanks, and Hope you enjoy the game!❤️</sub>
